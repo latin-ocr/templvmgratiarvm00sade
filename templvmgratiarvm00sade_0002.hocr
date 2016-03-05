@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./templvmgratiarvm00sade_0002.png"; bbox 0 0 1840 2786; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 748 841 1359 1130">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 748 841 1359 1130">
+     <span class='ocr_line' id='line_1_1' title="bbox 905 841 1201 943; baseline 0.007 -28"><span class='ocrx_word' id='word_1_1' title='bbox 905 841 1201 943; x_wconf 78' lang='lat' dir='ltr'><em>Library</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 974 935 1132 982; baseline -0.006 0"><span class='ocrx_word' id='word_1_2' title='bbox 974 935 1027 982; x_wconf 80' lang='lat' dir='ltr'><strong><em>of</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1048 935 1132 982; x_wconf 85' lang='lat' dir='ltr'><strong><em>the</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 774 1001 1332 1064; baseline -0.004 -15"><span class='ocrx_word' id='word_1_4' title='bbox 774 1004 1054 1064; x_wconf 76' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_5' title='bbox 1076 1001 1130 1048; x_wconf 82' lang='lat' dir='ltr'><strong><em>of</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1149 1001 1332 1048; x_wconf 87' lang='lat' dir='ltr'>Illinois</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 748 1067 1359 1130; baseline -0.002 -16"><span class='ocrx_word' id='word_1_7' title='bbox 748 1074 797 1114; x_wconf 81' lang='lat' dir='ltr'><strong><em>at</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 819 1067 1359 1130; x_wconf 81' lang='lat' dir='ltr'>Urbana—Champaign</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 682 1189 1435 1398">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 682 1189 1435 1398">
+     <span class='ocr_line' id='line_1_5' title="bbox 798 1189 1312 1263; baseline -0.002 -19"><span class='ocrx_word' id='word_1_9' title='bbox 798 1189 1060 1263; x_wconf 81' lang='lat' dir='ltr'><em>Aequired</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1088 1189 1312 1262; x_wconf 81' lang='lat' dir='ltr'><strong><em>through</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 682 1266 1435 1340; baseline -0.003 -19"><span class='ocrx_word' id='word_1_11' title='bbox 682 1267 785 1321; x_wconf 84' lang='lat' dir='ltr'><strong><em>The</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 813 1269 900 1320; x_wconf 89' lang='lat' dir='ltr'><strong><em>Dr.</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 936 1268 992 1320; x_wconf 85' lang='lat' dir='ltr'><strong><em>E.</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1026 1266 1264 1320; x_wconf 80' lang='lat' dir='ltr'><strong><em>Kenneth</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1293 1267 1435 1340; x_wconf 84' lang='lat' dir='ltr'><em>Gray</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 885 1343 1229 1398; baseline -0.003 0"><span class='ocrx_word' id='word_1_16' title='bbox 885 1343 1229 1398; x_wconf 83' lang='lat' dir='ltr'><strong><em>Endowment</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 528 1763 2733">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 528 1763 2733">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 528 1763 2733; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 528 1763 2733; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
